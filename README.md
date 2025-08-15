@@ -1,5 +1,11 @@
 # 💫 About Me:
-Hi, I'm Haroon Mirza, a dedicated and passionate software developer from Karachi, Pakistan. I'm currently pursuing a BS in Software Engineering at FAST - NUCES Karachi. My journey in software development has been driven by a commitment to learning, innovation, and problem-solving.<br><br>My academic and practical experiences have equipped me with a strong foundation in software engineering principles, and I've gained proficiency in various aspects of software development. I am particularly interested in full stack development and database management, and I'm always eager to expand my knowledge and skills.<br><br>I thrive in collaborative environments and enjoy contributing to innovative projects that solve real-world problems. I believe in continuous learning and am always looking for opportunities to enhance my expertise.<br><br>Feel free to connect with me on LinkedIn or explore my work on GitHub. Let's collaborate and create impactful software solutions together!
+Hi, I’m Haroon Mirza, a dedicated and passionate Software Development Analyst at Vision71 Technologies, based in Karachi, Pakistan. I hold a BS in Software Engineering from FAST – NUCES Karachi, and my journey in tech has been fueled by a drive for learning, innovation, leadership, and problem-solving.
+
+I possess strong leadership qualities, with a proven ability to align teams, coordinate efforts, and manage projects effectively to ensure timely and high-quality delivery. My expertise spans software development, web development, and desktop application development, with hands-on experience in technologies such as Java, JavaScript, MERN stack, Electron.js, database management, and design tools like Framer and Figma.
+
+I thrive in environments where collaboration meets direction, bringing structure and clarity to complex projects while fostering a positive and productive team culture. I believe in continuous growth and am always exploring new technologies to enhance my skill set.
+
+Feel free to connect with me on LinkedIn or explore my work on GitHub—let’s collaborate and create impactful software solutions together.
 
 
 ## 🌐 Socials:
