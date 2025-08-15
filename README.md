@@ -5,7 +5,9 @@ I possess strong leadership qualities, with a proven ability to align teams, coo
 
 I thrive in environments where collaboration meets direction, bringing structure and clarity to complex projects while fostering a positive and productive team culture. I believe in continuous growth and am always exploring new technologies to enhance my skill set.
 
-Feel free to connect with me on LinkedIn or explore my work on GitHub—let’s collaborate and create impactful software solutions together.
+Feel free to connect with me on LinkedIn or explore my work on GitHub.
+
+Let’s collaborate and create impactful software solutions together.
 
 
 ## 🌐 Socials:
